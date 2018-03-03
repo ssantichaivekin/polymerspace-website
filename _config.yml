@@ -1,6 +1,8 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes
+# plugins:
+#   - jekyll-remote-theme
+# remote_theme: mmistakes/minimal-mistakes
+
+theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -277,4 +279,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  - projects
+  - info
 
