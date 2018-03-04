@@ -5,3 +5,7 @@ permalink: /events/
 ---
 
 This is a new events page. 
+
+We have a google calendar here.
+<iframe src="https://calendar.google.com/calendar/embed?src=g.hmc.edu_tp1htc0g27rng5iq0qdl3sdoj4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
