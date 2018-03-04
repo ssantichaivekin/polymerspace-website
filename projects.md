@@ -4,21 +4,15 @@ title: Projects
 permalink: /projects/
 classes: 
   - wide
-feature_row:
-  - image_path: /assets/biohazard.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/biohazard.jpg
+
+project1:
+  - image_path: /assets/jelly.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/biohazard.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_class: "btn--primary"
 ---
 
 <!-- This is the projects landing page. -->
@@ -27,12 +21,12 @@ feature_row:
 
 You can come up with your own project and tell the board. We will provide the space and the materials for you. You can submit your project proposal through this google form.
 
-<div class="grid__wrapper">
+<!-- <div class="grid__wrapper">
 {% for post in site.projects %}
     {% include archive-single.html type="grid" %}
 {% endfor %}
-</div>
+</div> -->
 
-{% include feature_row %}
-
-<!-- Add archived projects here? -->
+{% include feature_row id="project1" type="left" %}
+{% include feature_row id="project1" type="left" %}
+{% include feature_row id="project1" type="left" %}
