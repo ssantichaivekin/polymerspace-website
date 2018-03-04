@@ -4,4 +4,4 @@ title: Events
 permalink: /events/
 ---
 
-This is a new events page.
+This is a new events page. 
