@@ -2,6 +2,8 @@
 layout: single
 title: Events
 permalink: /events/
+# Change the publish of the event tab here.
+published: false
 ---
 
 This is a new events page. 
