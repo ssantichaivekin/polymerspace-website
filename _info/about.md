@@ -15,3 +15,10 @@ https://drive.google.com/open?id=0B8JC0ExZLmtTNVU1Tnh3RDVDd3M)
 |---------------|------------|---------|
 | Person B      | aaaaa      |   ????? |
 | zebra stripes | aaaaa      |    ???? |
+
+We will provide you with the following materials and you can just work on the space:
+
+| Current Material List          |
+|--------------------------------|
+| A                              |
+| B                              |

@@ -2,7 +2,7 @@
 title: HMC PolymerSpace
 layout: single
 author_profile: false
-excerpt: "A biohackerspace in Olin B149, Harvey Mudd College."
+excerpt: "Come to the biohackerspace in Olin B149!"
 header:
   overlay_image: /assets/example1.jpg
 ---

@@ -17,6 +17,10 @@ project1:
 
 <!-- This is the projects landing page. -->
 
+If you have an interesting project idea, you can submit your project [here][submit-a-project]. We will review your project and reply within a week!
+
+[submit-a-project]: https://goo.gl/forms/DMn70FEgAVr0pvnw1
+
 ## Ongoing projects
 
 You can come up with your own project and tell the board. We will provide the space and the materials for you. You can submit your project proposal through this google form.
