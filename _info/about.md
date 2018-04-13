@@ -13,21 +13,26 @@ Professors, excited students, and members of the biohacking community will hold 
 ## What will we provide you?
 
 
-|-----------------|--------------|
-| Primers               | We can order primers for your project (it takes some time.) |
-| E. coli               | We will have that ready in the lab soon!                    |
-| Refrigerator          | In the lab                                                  |
-| NanoDrop (UV-vis spectrometer) | In the lab                                         |
-| Centrifuge            | In the lab                                                  |
-| Incubator | In the lab
-| PCR apparatus | In the lab |
-| Beaker and Flasks | In the lab |
-| Lab coats | In the lab |
+We will provide you with primers (you can order through us!), E. coli, refrigerator, NanoDrop (UV-vis spectrometer), centrifuge, incubator, PCR apparatus, electroporator, beakers and flasks, lab coats, reimbursement for the things you order, and other things too!
 
-## People
+Detailed material list is provided [here](material-list):
 
-| Name          | position   | contact |
-|---------------|------------|---------|
-| Person B      | aaaaa      |   ????? |
-| zebra stripes | aaaaa      |    ???? |
+[material-list]: https://docs.google.com/document/d/10VWw3SAfIR8WrNy7vOYt2gv8aGEacI8-YP_qgsKZsSU/edit?usp=sharing
+
+## Team
+
+
+
+| Name          | position   |
+|---------------|------------|
+| Reem Alkhamis      | PR, Recruitment, Treasurer |
+| Chan Hong | aaaaa      |
+| Santi Santichaivekin |
+| Yuanzhou Chen | 
+| Caleb Norfleet |
+| Sam Langit | Materials Manager |
+| Gabriella Teodoro |
+| Yaqub Mahsud |
+
+
 
