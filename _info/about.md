@@ -21,18 +21,18 @@ Detailed material list is provided [here](material-list):
 
 ## Team
 
-
-
-| Name          | position   |
-|---------------|------------|
-| Reem Alkhamis      | PR, Recruitment, Treasurer |
-| Chan Hong | aaaaa      |
-| Santi Santichaivekin |
-| Yuanzhou Chen | 
-| Caleb Norfleet |
-| Sam Langit | Materials Manager |
-| Gabriella Teodoro |
-| Yaqub Mahsud |
-
+| Name                      | position                      |
+|---------------------------|-------------------------------|
+| Roya Amini-Naieni         | Founder                       |
+| Reem Alkhamis             | PR, Recruitment, Treasurer    |
+| Chan Hong                 | PR, Recruitment               |
+| Dolly Efuye               | PR, Recruitment               |
+| Santi Santichaivekin      | PR                            |
+| Yuanzhou Chen             | Treasurer                     |
+| Caleb Norfleet            | Treasurer                     |
+| Sam Langit                | Materials Manager             |
+| Gabriella Teodoro         | Materials Manager             |
+| Yaqub Mahsud              | Secretary                     |
+| Ellie Naudzius            | Head Safety Officer           |
 
 
