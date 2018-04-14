@@ -43,6 +43,7 @@ The Board will review projects and make imoprtant decisions about funding and sa
 
 | Student Board Member  |
 |-----------------------|
+| Roya Amini-Naieni     |
 | Chris Doering         |
 | Chan Hong             |
 | Ellie Naudzius        |
