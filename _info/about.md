@@ -21,6 +21,8 @@ Detailed material list is provided [here](material-list):
 
 ## Team
 
+Here is our great team!
+
 | Name                      | position                      |
 |---------------------------|-------------------------------|
 | Roya Amini-Naieni         | Founder                       |
@@ -35,4 +37,23 @@ Detailed material list is provided [here](material-list):
 | Yaqub Mahsud              | Secretary                     |
 | Ellie Naudzius            | Head Safety Officer           |
 
+## The Board
+
+The Board will review projects and make imoprtant decisions about funding and safety. We have students board and outside board.
+
+### Students Board
+
+| Chris Doering         |
+| Chan Hong             |
+| Ellie Naudzius        |
+| Gabriella Teodoro     |
+| Ronak Bhatia          |
+
+### Outside Board
+
+| Chris Choe                |
+| Keoni Gandall             |
+| Professor Jae Hur         |
+| Zach Mueller              |
+| Professor Daniel Stoebel  |
 
