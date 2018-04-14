@@ -2,7 +2,7 @@
 title: HMC PolymerSpace
 layout: single
 author_profile: false
-excerpt: "Welcome to the Polymerspace, the Harvey Mudd College Biohackerspace."
+excerpt: "Welcome to the Polymerspace, the HMC Biohackerspace."
 header:
   overlay_image: /assets/example1.jpg
 ---

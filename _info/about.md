@@ -15,7 +15,7 @@ Professors, excited students, and members of the biohacking community will hold 
 
 We will provide you with primers (you can order through us!), E. coli, refrigerator, NanoDrop (UV-vis spectrometer), centrifuge, incubator, PCR apparatus, electroporator, beakers and flasks, lab coats, reimbursement for the things you order, and other things too!
 
-Detailed material list is provided [here](material-list):
+The detailed version of material list is provided [here][material-list]:
 
 [material-list]: https://docs.google.com/document/d/10VWw3SAfIR8WrNy7vOYt2gv8aGEacI8-YP_qgsKZsSU/edit?usp=sharing
 
@@ -23,7 +23,7 @@ Detailed material list is provided [here](material-list):
 
 Here is our great team!
 
-| Name                      | position                      |
+| Name                      | Position                      |
 |---------------------------|-------------------------------|
 | Roya Amini-Naieni         | Founder                       |
 | Reem Alkhamis             | PR, Recruitment, Treasurer    |
@@ -39,21 +39,25 @@ Here is our great team!
 
 ## The Board
 
-The Board will review projects and make imoprtant decisions about funding and safety. We have students board and outside board.
+The Board will review projects and make imoprtant decisions about funding and safety. We have student board and outside board.
 
-### Students Board
-
+| Student Board Member  |
+|-----------------------|
 | Chris Doering         |
 | Chan Hong             |
 | Ellie Naudzius        |
 | Gabriella Teodoro     |
 | Ronak Bhatia          |
 
-### Outside Board
-
+| Outside Board Member      |
+|---------------------------|
 | Chris Choe                |
 | Keoni Gandall             |
 | Professor Jae Hur         |
 | Zach Mueller              |
 | Professor Daniel Stoebel  |
+
+If you are interested, you can contact us [here][contact-us]!
+
+[contact-us]: /contact-us/
 
