@@ -25,7 +25,7 @@ Here is our great team!
 
 | Name                      | Position                      |
 |---------------------------|-------------------------------|
-| Roya Amini-Naieni         | Founder                       |
+| Roya Amini-Naieni         | Founder and Director          |
 | Reem Alkhamis             | PR, Recruitment, Treasurer    |
 | Chan Hong                 | PR, Recruitment               |
 | Dolly Efuye               | PR, Recruitment               |
