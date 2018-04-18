@@ -25,14 +25,16 @@ The projects will be reviewed by the board.
 
 ## Ongoing projects
 
-You can come up with your own project and tell the board. We will provide the space and the materials for you. You can submit your project proposal through this google form.
+We don't have any ongoing project yet, but currently, we have many ideas! If you want to join these projects, [contact us]!
 
-<!-- <div class="grid__wrapper">
-{% for post in site.projects %}
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div> -->
+[contact us]: {{ site.baseurl }}{% link /contact-us/ %}
 
-{% include feature_row id="project1" type="left" %}
-{% include feature_row id="project1" type="left" %}
-{% include feature_row id="project1" type="left" %}
+- Making a line of E.coli perfumes ([link][ecoli-perfumes])
+- Make cool biodegradable plastic things like a line of plates and cups using synthetic biology produced plastic ([link][bio-plastic])
+- Dye some clothes with E.coli produced pigments ([link][ecoli-dye])
+
+[ecoli-perfumes]: https://2006.igem.org/wiki/index.php/MIT_2006
+[bio-plastic]: https://wyss.harvard.edu/technology/chitosan-bioplastic/
+[ecoli-dye]: http://revolutionbio.co/synthetic-biology-indigo-is-your-color/
+
+
