@@ -1,9 +1,9 @@
 ---
-layout: splash
+layout: single
 title: Projects
 permalink: /projects/
-classes: 
-  - wide
+# classes: 
+#   - wide
 
 project1:
   - image_path: /assets/jelly.jpg
@@ -25,9 +25,9 @@ The projects will be reviewed by the board.
 
 ## Ongoing projects
 
-We don't have any ongoing project yet, but currently, we have many ideas! If you want to join these projects, [contact us]!
+We don't have any ongoing project yet; however, we have many ideas! If you want to join these projects, [contact us]!
 
-[contact us]: {{ site.baseurl }}{% link /contact-us/ %}
+[contact us]: /contact-us/
 
 - Making a line of E.coli perfumes ([link][ecoli-perfumes])
 - Make cool biodegradable plastic things like a line of plates and cups using synthetic biology produced plastic ([link][bio-plastic])
