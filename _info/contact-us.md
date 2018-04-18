@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-We currently do not have a mailing list. If you want to contact us, email Roya Amini-Naieni (ramininaieni@hmc.edu).
+We will have a mailing list soon! For now, if you want to contact us, email Roya Amini-Naieni (ramininaieni@hmc.edu).
