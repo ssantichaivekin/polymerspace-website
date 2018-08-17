@@ -21,7 +21,7 @@ If you have an interesting project idea, you can submit your project [here][subm
 
 [submit-a-project]: https://goo.gl/forms/DMn70FEgAVr0pvnw1
 
-The projects will be reviewed by the board.
+All projects submitted will be reviewed by the board.
 
 ## Ongoing projects
 
