@@ -12,9 +12,9 @@ We will provide you with primers (you can order through us!), E. coli, refrigera
 
 ![Lab space and equipments](/assets/lab_space_3.jpg)
 
-The detailed version of material list is provided [here][material-list].
+The detailed material list is provided [here][material-list].
 
-[material-list]: https://docs.google.com/document/d/10VWw3SAfIR8WrNy7vOYt2gv8aGEacI8-YP_qgsKZsSU/edit?usp=sharing
+[material-list]: /inventory/
 
 ## Team
 

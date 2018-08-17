@@ -3,10 +3,10 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Inventory"
+    url: /inventory/
   # Uncomment the comments below to show the Events page:
   # - title: "Events"
   #   url: /events/
-  - title: "Join"
-    url: /join/
   - title: "Contact Us"
     url: /contact-us/
