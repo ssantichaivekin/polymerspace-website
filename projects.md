@@ -25,16 +25,21 @@ All projects submitted will be reviewed by the board.
 
 ## Ongoing projects
 
-We don't have any ongoing project yet; however, we have many ideas! If you want to join these projects, [contact us]!
+If anyone wants to join an ongoing project in the following list, please email the team contact and cc to [thehmcpolymerspace@gmail.com](mailto:thehmcpolymerspace@gmail.com).
 
-[contact us]: /contact-us/
+### 7C iGEM Team
+![igem gif](http://2015.igem.org/wiki/images/6/6b/IGEM-animated.gif)<br/>
+**Team Contact**: Samantha Borje ([sbbp2015@mymail.pomona.edu](mailto:sbbp2015@mymail.pomona.edu))
+**2018 Project**: The ultimate aim of the project is synthesizing an artificial radiation detector/recorder circuit in a
+radiation resistant bacterium. 
 
-- Making a line of E.coli perfumes ([link][ecoli-perfumes])
-- Make cool biodegradable plastic things like a line of plates and cups using synthetic biology produced plastic ([link][bio-plastic])
-- Dye some clothes with E.coli produced pigments ([link][ecoli-dye])
-
-[ecoli-perfumes]: https://2006.igem.org/wiki/index.php/MIT_2006
-[bio-plastic]: https://wyss.harvard.edu/technology/chitosan-bioplastic/
-[ecoli-dye]: http://revolutionbio.co/synthetic-biology-indigo-is-your-color/
+We will be synthesizing a circuit for detecting and reporting the presence of carbonylated
+MyBPC in an e. coli expression system, MyBPC is typically bound to F-actin. Under oxidative
+stress, MyBPC is carbonylated and dissociates from F-actin (becoming “unbound MyBPC”). One
+current idea is to fuse an antibody against carbonylated/unbound MyBPC (i.e., will bind MyBPC if
+MyBPC is not bound to actin) to a MAPK-kinase pathway (involved in cell proliferation). The MyBPC
+is also fused to a positive modulator. Thus, when MyBPC+positive modulator releases actin and
+binds to the antibody, it up-regulates the MAP-K kinase pathway. MyBPC will also link to a
+reporter system. (Result: amplified (through MAP-K) reporting).
 
 

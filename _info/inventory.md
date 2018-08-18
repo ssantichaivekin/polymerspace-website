@@ -26,8 +26,8 @@ Equipment that we have access to using keys hanging in our lab:
 - Autoclave for sterilization 
 
 Equipment and Lab Supplies that Belong to Our Lab:
-Please visit [https://goo.gl/AinxcN](https://goo.gl/AinxcN) to access our inventory 
-as of August 15th, 2018. 
+Please visit [our inventory site](https://goo.gl/AinxcN) to access our inventory 
+as of August 15th, 2018. We also have a wishlist [here](https://docs.google.com/document/d/16wT9AueFMez_I-FHyb3gaRH_D2vj6btsoOdkYLMK3Tc/).
 
 Our inventory is constantly growing and changing. We are still
 working on setting up Quartzy so that we can share our inventory 
