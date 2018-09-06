@@ -2,7 +2,7 @@
 title: HMC PolymerSpace
 layout: single
 author_profile: false
-excerpt: "Welcome to the Polymerspace, the HMC Biohackerspace."
+excerpt: "Welcome to the Polymerspace, the HMC Biohackerspace.<br> <sub>Founded December, 2017</sub>"
 header:
   overlay_image: /assets/equipments_1.jpg
 ---
